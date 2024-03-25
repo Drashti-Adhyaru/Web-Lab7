@@ -1,5 +1,9 @@
 # JobApp
 
+## I have done 2 forms
+## 1. Title Form and 2. Project Form
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## Development server
